@@ -1,0 +1,8 @@
+2024-10-28 22:11:55,677 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:13:35,916 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 23:18:53,103 - ERROR - error occured : could not convert string to float: '2015-05-11 01:10:38'
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-29 20:32:40,738 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: 'final_fraud_data.csv'
+2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
+2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!

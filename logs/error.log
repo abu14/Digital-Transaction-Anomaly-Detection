@@ -1,0 +1,65 @@
+2024-10-18 19:51:07,742 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 19:51:07,776 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:37:26,455 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:37:26,472 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:41:18,393 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:41:18,428 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,444 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,473 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'
+2024-10-22 14:23:37,045 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:23:37,045 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:23:37,045 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:23:43,469 - ERROR - error occured : 'NoneType' object is not subscriptable
+2024-10-22 14:23:43,469 - ERROR - error occured : 'NoneType' object is not subscriptable
+2024-10-22 14:23:43,469 - ERROR - error occured : 'NoneType' object is not subscriptable
+2024-10-22 14:27:11,987 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:27:11,987 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:27:11,987 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:04,532 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:04,532 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:04,532 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:04,666 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:04,666 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:04,666 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:49,116 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:49,116 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:49,116 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:49,237 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:49,237 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:49,237 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:31:38,748 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:31:38,748 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:31:38,748 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:31:40,203 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-22 14:31:40,203 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-22 14:31:40,203 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:56:25,424 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:25,424 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:25,424 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:49,088 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:49,088 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:49,088 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:50,190 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:56:50,190 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:56:50,190 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:57:00,657 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:57:00,657 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:57:00,657 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 21:00:23,717 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:00:23,717 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:00:23,717 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:01:26,035 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:01:26,035 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:01:26,035 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:04:20,689 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:04:20,689 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:04:20,689 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 22:11:55,677 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:13:35,916 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 23:18:53,103 - ERROR - error occured : could not convert string to float: '2015-05-11 01:10:38'
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-29 20:32:40,738 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: 'final_fraud_data.csv'
+2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
+2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!

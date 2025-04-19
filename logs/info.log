@@ -1,0 +1,610 @@
+2024-10-18 19:49:31,092 - INFO - loading the data
+2024-10-18 19:50:02,733 - INFO - loading the data
+2024-10-18 19:50:03,116 - INFO - loading the data
+2024-10-18 19:51:07,674 - INFO - data set overview
+2024-10-18 19:51:07,676 - INFO - description of the data set
+2024-10-18 19:51:07,742 - INFO - data type of the data frame columns :
+2024-10-18 19:51:07,742 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 19:51:07,742 - INFO - data set overview
+2024-10-18 19:51:07,742 - INFO - description of the data set
+2024-10-18 19:51:07,773 - INFO - data type of the data frame columns :
+2024-10-18 19:51:07,776 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 19:53:01,261 - INFO - displying the missing values is there is any
+2024-10-18 19:53:01,309 - INFO - displying the missing values is there is any
+2024-10-18 19:54:54,553 - INFO - cleaning the data
+2024-10-18 19:54:54,555 - INFO - removing the duplicatged values
+2024-10-18 19:54:54,778 - INFO - correcting the data dypes
+2024-10-18 19:54:54,786 - INFO - cleaning the data
+2024-10-18 19:54:54,786 - INFO - removing the duplicatged values
+2024-10-18 19:54:54,828 - INFO - correcting the data dypes
+2024-10-18 19:55:28,781 - INFO - cleaning the data
+2024-10-18 19:55:28,781 - INFO - removing the duplicatged values
+2024-10-18 19:55:28,995 - INFO - correcting the data dypes
+2024-10-18 19:55:29,010 - INFO - cleaning the data
+2024-10-18 19:55:29,010 - INFO - removing the duplicatged values
+2024-10-18 19:55:29,055 - INFO - correcting the data dypes
+2024-10-18 19:56:29,448 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-18 19:56:29,450 - INFO - Performing univariate analysis on numerical columns
+2024-10-18 19:56:36,355 - INFO - Plotting histogram for user_id
+2024-10-18 19:56:37,509 - INFO - Plotting boxplot for user_id
+2024-10-18 19:56:39,729 - INFO - Plotting histogram for purchase_value
+2024-10-18 19:56:41,247 - INFO - Plotting boxplot for purchase_value
+2024-10-18 19:56:41,791 - INFO - Plotting histogram for age
+2024-10-18 19:56:43,394 - INFO - Plotting boxplot for age
+2024-10-18 19:56:43,840 - INFO - Plotting histogram for ip_address
+2024-10-18 19:56:45,006 - INFO - Plotting boxplot for ip_address
+2024-10-18 19:56:45,423 - INFO - Plotting histogram for class
+2024-10-18 19:56:46,473 - INFO - Plotting boxplot for class
+2024-10-18 19:56:46,980 - INFO - Performing univariate analysis on categorical columns
+2024-10-18 19:56:47,001 - INFO - Plotting countplot for signup_time
+2024-10-18 19:56:57,000 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 19:57:05,920 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:37:25,843 - INFO - loading the data
+2024-10-18 20:37:26,290 - INFO - loading the data
+2024-10-18 20:37:26,381 - INFO - data set overview
+2024-10-18 20:37:26,381 - INFO - description of the data set
+2024-10-18 20:37:26,452 - INFO - data type of the data frame columns :
+2024-10-18 20:37:26,455 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:37:26,456 - INFO - data set overview
+2024-10-18 20:37:26,458 - INFO - description of the data set
+2024-10-18 20:37:26,472 - INFO - data type of the data frame columns :
+2024-10-18 20:37:26,472 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:37:26,500 - INFO - displying the missing values is there is any
+2024-10-18 20:37:26,550 - INFO - displying the missing values is there is any
+2024-10-18 20:37:26,572 - INFO - cleaning the data
+2024-10-18 20:37:26,576 - INFO - removing the duplicatged values
+2024-10-18 20:37:26,793 - INFO - correcting the data dypes
+2024-10-18 20:37:26,805 - INFO - cleaning the data
+2024-10-18 20:37:26,806 - INFO - removing the duplicatged values
+2024-10-18 20:37:26,856 - INFO - correcting the data dypes
+2024-10-18 20:37:26,876 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-18 20:37:26,879 - INFO - Performing univariate analysis on numerical columns
+2024-10-18 20:37:26,913 - INFO - Plotting histogram for user_id
+2024-10-18 20:37:28,151 - INFO - Plotting boxplot for user_id
+2024-10-18 20:37:28,819 - INFO - Plotting histogram for purchase_value
+2024-10-18 20:37:30,891 - INFO - Plotting boxplot for purchase_value
+2024-10-18 20:37:31,544 - INFO - Plotting histogram for age
+2024-10-18 20:37:33,409 - INFO - Plotting boxplot for age
+2024-10-18 20:37:34,040 - INFO - Plotting histogram for ip_address
+2024-10-18 20:37:35,424 - INFO - Plotting boxplot for ip_address
+2024-10-18 20:37:35,995 - INFO - Plotting histogram for class
+2024-10-18 20:37:37,471 - INFO - Plotting boxplot for class
+2024-10-18 20:37:37,960 - INFO - Performing univariate analysis on categorical columns
+2024-10-18 20:37:37,972 - INFO - Plotting countplot for signup_time
+2024-10-18 20:37:47,686 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:37:57,075 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:41:17,794 - INFO - loading the data
+2024-10-18 20:41:18,247 - INFO - loading the data
+2024-10-18 20:41:18,346 - INFO - data set overview
+2024-10-18 20:41:18,346 - INFO - description of the data set
+2024-10-18 20:41:18,393 - INFO - data type of the data frame columns :
+2024-10-18 20:41:18,393 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:41:18,409 - INFO - data set overview
+2024-10-18 20:41:18,409 - INFO - description of the data set
+2024-10-18 20:41:18,428 - INFO - data type of the data frame columns :
+2024-10-18 20:41:18,428 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-18 20:41:18,441 - INFO - displying the missing values is there is any
+2024-10-18 20:41:18,492 - INFO - displying the missing values is there is any
+2024-10-18 20:41:18,513 - INFO - cleaning the data
+2024-10-18 20:41:18,515 - INFO - removing the duplicatged values
+2024-10-18 20:41:18,719 - INFO - correcting the data dypes
+2024-10-18 20:41:18,730 - INFO - cleaning the data
+2024-10-18 20:41:18,730 - INFO - removing the duplicatged values
+2024-10-18 20:41:18,780 - INFO - correcting the data dypes
+2024-10-18 20:41:18,809 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-18 20:41:18,812 - INFO - Performing univariate analysis on numerical columns
+2024-10-18 20:41:18,849 - INFO - Plotting histogram for user_id
+2024-10-18 20:41:20,080 - INFO - Plotting boxplot for user_id
+2024-10-18 20:41:20,533 - INFO - Plotting histogram for purchase_value
+2024-10-18 20:41:22,013 - INFO - Plotting boxplot for purchase_value
+2024-10-18 20:41:22,446 - INFO - Plotting histogram for age
+2024-10-18 20:41:23,796 - INFO - Plotting boxplot for age
+2024-10-18 20:41:24,279 - INFO - Plotting histogram for ip_address
+2024-10-18 20:41:25,312 - INFO - Plotting boxplot for ip_address
+2024-10-18 20:41:25,716 - INFO - Plotting histogram for class
+2024-10-18 20:41:26,762 - INFO - Plotting boxplot for class
+2024-10-18 20:41:27,193 - INFO - Performing univariate analysis on categorical columns
+2024-10-18 20:41:27,396 - INFO - Plotting countplot for device_id
+2024-10-18 20:49:55,905 - INFO - Performing univariate analysis for datetime features
+2024-10-18 20:49:56,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:56,189 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:56,435 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:56,590 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,131 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,264 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,502 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,630 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-18 20:49:57,910 - INFO - Performing univariate analysis for datetime features
+2024-10-21 19:38:14,739 - INFO - loading the data
+2024-10-21 19:38:15,233 - INFO - loading the data
+2024-10-21 19:38:15,356 - INFO - data set overview
+2024-10-21 19:38:15,358 - INFO - description of the data set
+2024-10-21 19:38:15,441 - INFO - data type of the data frame columns :
+2024-10-21 19:38:15,444 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,446 - INFO - data set overview
+2024-10-21 19:38:15,448 - INFO - description of the data set
+2024-10-21 19:38:15,471 - INFO - data type of the data frame columns :
+2024-10-21 19:38:15,473 - ERROR - error occured while performing the overview of the data set: 'DataFrame' object has no attribute 'dtype'
+2024-10-21 19:38:15,488 - INFO - displying the missing values is there is any
+2024-10-21 19:38:15,540 - INFO - displying the missing values is there is any
+2024-10-21 19:38:15,564 - INFO - cleaning the data
+2024-10-21 19:38:15,567 - INFO - removing the duplicatged values
+2024-10-21 19:38:15,868 - INFO - correcting the data dypes
+2024-10-21 19:38:15,874 - INFO - cleaning the data
+2024-10-21 19:38:15,876 - INFO - removing the duplicatged values
+2024-10-21 19:38:15,923 - INFO - correcting the data dypes
+2024-10-21 19:38:15,939 - INFO - Starting full Exploratory Data Analysis (EDA)
+2024-10-21 19:38:15,941 - INFO - Performing univariate analysis on numerical columns
+2024-10-21 19:38:16,005 - INFO - Plotting histogram for user_id
+2024-10-21 19:38:17,170 - INFO - Plotting boxplot for user_id
+2024-10-21 19:38:17,780 - INFO - Plotting histogram for purchase_value
+2024-10-21 19:38:19,565 - INFO - Plotting boxplot for purchase_value
+2024-10-21 19:38:19,950 - INFO - Plotting histogram for age
+2024-10-21 19:38:21,287 - INFO - Plotting boxplot for age
+2024-10-21 19:38:21,712 - INFO - Plotting histogram for ip_address
+2024-10-21 19:38:22,685 - INFO - Plotting boxplot for ip_address
+2024-10-21 19:38:23,174 - INFO - Plotting histogram for class
+2024-10-21 19:38:24,561 - INFO - Plotting boxplot for class
+2024-10-21 19:38:24,923 - INFO - Performing univariate analysis on categorical columns
+2024-10-21 19:38:25,092 - INFO - Plotting countplot for device_id
+2024-10-21 19:43:47,508 - INFO - Performing univariate analysis for datetime features
+2024-10-21 19:43:47,708 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:47,783 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:47,977 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,041 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,399 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,472 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,647 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,708 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-10-21 19:43:48,928 - INFO - Performing univariate analysis for datetime features
+2024-10-21 19:54:05,962 - INFO - loading the data
+2024-10-21 19:54:05,962 - INFO - loading the data
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'
+2024-10-21 19:54:05,966 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: '..data/mergeddf.csv'
+2024-10-21 19:54:13,444 - INFO - loading the data
+2024-10-21 19:54:13,444 - INFO - loading the data
+2024-10-22 13:08:17,353 - INFO - loading the data
+2024-10-22 13:08:17,353 - INFO - loading the data
+2024-10-22 14:23:37,009 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:23:37,009 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:23:37,009 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:23:37,045 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:23:37,045 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:23:37,045 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:23:43,465 - INFO - Normalizing and encoding 
+2024-10-22 14:23:43,465 - INFO - Normalizing and encoding 
+2024-10-22 14:23:43,465 - INFO - Normalizing and encoding 
+2024-10-22 14:23:43,468 - INFO - Convert datetime columns
+2024-10-22 14:23:43,468 - INFO - Convert datetime columns
+2024-10-22 14:23:43,468 - INFO - Convert datetime columns
+2024-10-22 14:23:43,469 - ERROR - error occured : 'NoneType' object is not subscriptable
+2024-10-22 14:23:43,469 - ERROR - error occured : 'NoneType' object is not subscriptable
+2024-10-22 14:23:43,469 - ERROR - error occured : 'NoneType' object is not subscriptable
+2024-10-22 14:27:08,601 - INFO - loading the data
+2024-10-22 14:27:08,601 - INFO - loading the data
+2024-10-22 14:27:11,982 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:27:11,982 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:27:11,982 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:27:11,987 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:27:11,987 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:27:11,987 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:02,860 - INFO - loading the data
+2024-10-22 14:29:02,860 - INFO - loading the data
+2024-10-22 14:29:04,531 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:29:04,531 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:29:04,531 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:29:04,532 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:04,532 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:04,532 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:04,592 - INFO - Normalizing and encoding 
+2024-10-22 14:29:04,592 - INFO - Normalizing and encoding 
+2024-10-22 14:29:04,592 - INFO - Normalizing and encoding 
+2024-10-22 14:29:04,594 - INFO - Convert datetime columns
+2024-10-22 14:29:04,594 - INFO - Convert datetime columns
+2024-10-22 14:29:04,594 - INFO - Convert datetime columns
+2024-10-22 14:29:04,624 - INFO - Extract time-related featuresu
+2024-10-22 14:29:04,624 - INFO - Extract time-related featuresu
+2024-10-22 14:29:04,624 - INFO - Extract time-related featuresu
+2024-10-22 14:29:04,663 - INFO - Select catagorical and numerical columns
+2024-10-22 14:29:04,663 - INFO - Select catagorical and numerical columns
+2024-10-22 14:29:04,663 - INFO - Select catagorical and numerical columns
+2024-10-22 14:29:04,664 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:29:04,664 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:29:04,664 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:29:04,666 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:04,666 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:04,666 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:40,017 - INFO - loading the data
+2024-10-22 14:29:40,017 - INFO - loading the data
+2024-10-22 14:29:40,017 - INFO - loading the data
+2024-10-22 14:29:47,561 - INFO - loading the data
+2024-10-22 14:29:47,561 - INFO - loading the data
+2024-10-22 14:29:49,112 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:29:49,112 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:29:49,112 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:29:49,116 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:49,116 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:49,116 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:29:49,169 - INFO - Normalizing and encoding 
+2024-10-22 14:29:49,169 - INFO - Normalizing and encoding 
+2024-10-22 14:29:49,169 - INFO - Normalizing and encoding 
+2024-10-22 14:29:49,171 - INFO - Convert datetime columns
+2024-10-22 14:29:49,171 - INFO - Convert datetime columns
+2024-10-22 14:29:49,171 - INFO - Convert datetime columns
+2024-10-22 14:29:49,194 - INFO - Extract time-related featuresu
+2024-10-22 14:29:49,194 - INFO - Extract time-related featuresu
+2024-10-22 14:29:49,194 - INFO - Extract time-related featuresu
+2024-10-22 14:29:49,234 - INFO - Select catagorical and numerical columns
+2024-10-22 14:29:49,234 - INFO - Select catagorical and numerical columns
+2024-10-22 14:29:49,234 - INFO - Select catagorical and numerical columns
+2024-10-22 14:29:49,236 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:29:49,236 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:29:49,236 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:29:49,237 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:49,237 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:29:49,237 - ERROR - error occured : OneHotEncoder.__init__() got an unexpected keyword argument 'sparse'
+2024-10-22 14:31:36,990 - INFO - loading the data
+2024-10-22 14:31:36,990 - INFO - loading the data
+2024-10-22 14:31:38,745 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:31:38,745 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:31:38,745 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-22 14:31:38,748 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:31:38,748 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:31:38,748 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-22 14:31:38,788 - INFO - Normalizing and encoding 
+2024-10-22 14:31:38,788 - INFO - Normalizing and encoding 
+2024-10-22 14:31:38,788 - INFO - Normalizing and encoding 
+2024-10-22 14:31:38,791 - INFO - Convert datetime columns
+2024-10-22 14:31:38,791 - INFO - Convert datetime columns
+2024-10-22 14:31:38,791 - INFO - Convert datetime columns
+2024-10-22 14:31:38,820 - INFO - Extract time-related featuresu
+2024-10-22 14:31:38,820 - INFO - Extract time-related featuresu
+2024-10-22 14:31:38,820 - INFO - Extract time-related featuresu
+2024-10-22 14:31:38,871 - INFO - Select catagorical and numerical columns
+2024-10-22 14:31:38,871 - INFO - Select catagorical and numerical columns
+2024-10-22 14:31:38,871 - INFO - Select catagorical and numerical columns
+2024-10-22 14:31:38,873 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:31:38,873 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:31:38,873 - INFO - creating a column transformaer for scaling and encoding
+2024-10-22 14:31:38,876 - INFO - Applying the transformations
+2024-10-22 14:31:38,876 - INFO - Applying the transformations
+2024-10-22 14:31:38,876 - INFO - Applying the transformations
+2024-10-22 14:31:40,203 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-22 14:31:40,203 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-22 14:31:40,203 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-22 14:33:17,414 - INFO - loading the data
+2024-10-22 14:33:17,414 - INFO - loading the data
+2024-10-22 14:33:37,393 - INFO - loading the data
+2024-10-22 14:33:37,393 - INFO - loading the data
+2024-10-22 14:34:10,526 - INFO - loading the data
+2024-10-22 14:34:10,526 - INFO - loading the data
+2024-10-22 14:36:15,940 - INFO - loading the data
+2024-10-22 14:36:15,940 - INFO - loading the data
+2024-10-28 20:55:04,313 - INFO - loading the data
+2024-10-28 20:55:04,313 - INFO - loading the data
+2024-10-28 20:56:25,423 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 20:56:25,423 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 20:56:25,423 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 20:56:25,424 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:25,424 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:25,424 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:47,696 - INFO - loading the data
+2024-10-28 20:56:47,696 - INFO - loading the data
+2024-10-28 20:56:49,084 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 20:56:49,084 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 20:56:49,084 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 20:56:49,088 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:49,088 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:49,088 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 20:56:49,124 - INFO - Normalizing and encoding 
+2024-10-28 20:56:49,124 - INFO - Normalizing and encoding 
+2024-10-28 20:56:49,124 - INFO - Normalizing and encoding 
+2024-10-28 20:56:49,126 - INFO - Convert datetime columns
+2024-10-28 20:56:49,126 - INFO - Convert datetime columns
+2024-10-28 20:56:49,126 - INFO - Convert datetime columns
+2024-10-28 20:56:49,155 - INFO - Extract time-related featuresu
+2024-10-28 20:56:49,155 - INFO - Extract time-related featuresu
+2024-10-28 20:56:49,155 - INFO - Extract time-related featuresu
+2024-10-28 20:56:49,192 - INFO - Select catagorical and numerical columns
+2024-10-28 20:56:49,192 - INFO - Select catagorical and numerical columns
+2024-10-28 20:56:49,192 - INFO - Select catagorical and numerical columns
+2024-10-28 20:56:49,194 - INFO - creating a column transformaer for scaling and encoding
+2024-10-28 20:56:49,194 - INFO - creating a column transformaer for scaling and encoding
+2024-10-28 20:56:49,194 - INFO - creating a column transformaer for scaling and encoding
+2024-10-28 20:56:49,195 - INFO - Applying the transformations
+2024-10-28 20:56:49,195 - INFO - Applying the transformations
+2024-10-28 20:56:49,195 - INFO - Applying the transformations
+2024-10-28 20:56:50,190 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:56:50,190 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:56:50,190 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:56:59,658 - INFO - Normalizing and encoding 
+2024-10-28 20:56:59,658 - INFO - Normalizing and encoding 
+2024-10-28 20:56:59,658 - INFO - Normalizing and encoding 
+2024-10-28 20:56:59,660 - INFO - Convert datetime columns
+2024-10-28 20:56:59,660 - INFO - Convert datetime columns
+2024-10-28 20:56:59,660 - INFO - Convert datetime columns
+2024-10-28 20:56:59,682 - INFO - Extract time-related featuresu
+2024-10-28 20:56:59,682 - INFO - Extract time-related featuresu
+2024-10-28 20:56:59,682 - INFO - Extract time-related featuresu
+2024-10-28 20:56:59,713 - INFO - Select catagorical and numerical columns
+2024-10-28 20:56:59,713 - INFO - Select catagorical and numerical columns
+2024-10-28 20:56:59,713 - INFO - Select catagorical and numerical columns
+2024-10-28 20:56:59,713 - INFO - creating a column transformaer for scaling and encoding
+2024-10-28 20:56:59,713 - INFO - creating a column transformaer for scaling and encoding
+2024-10-28 20:56:59,713 - INFO - creating a column transformaer for scaling and encoding
+2024-10-28 20:56:59,714 - INFO - Applying the transformations
+2024-10-28 20:56:59,714 - INFO - Applying the transformations
+2024-10-28 20:56:59,714 - INFO - Applying the transformations
+2024-10-28 20:57:00,657 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:57:00,657 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 20:57:00,657 - ERROR - error occured : Unable to allocate 155. GiB for an array with shape (151112, 137962) and data type float64
+2024-10-28 21:00:22,560 - INFO - loading the data
+2024-10-28 21:00:22,560 - INFO - loading the data
+2024-10-28 21:00:23,714 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:00:23,714 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:00:23,714 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:00:23,717 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:00:23,717 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:00:23,717 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:00:23,744 - INFO - Normalizing and encoding
+2024-10-28 21:00:23,744 - INFO - Normalizing and encoding
+2024-10-28 21:00:23,744 - INFO - Normalizing and encoding
+2024-10-28 21:00:23,746 - INFO - Convert datetime columns
+2024-10-28 21:00:23,746 - INFO - Convert datetime columns
+2024-10-28 21:00:23,746 - INFO - Convert datetime columns
+2024-10-28 21:00:23,768 - INFO - Extract time-related features
+2024-10-28 21:00:23,768 - INFO - Extract time-related features
+2024-10-28 21:00:23,768 - INFO - Extract time-related features
+2024-10-28 21:00:23,800 - INFO - Select categorical and numerical columns
+2024-10-28 21:00:23,800 - INFO - Select categorical and numerical columns
+2024-10-28 21:00:23,800 - INFO - Select categorical and numerical columns
+2024-10-28 21:00:23,802 - INFO - Creating a column transformer for scaling and encoding
+2024-10-28 21:00:23,802 - INFO - Creating a column transformer for scaling and encoding
+2024-10-28 21:00:23,802 - INFO - Creating a column transformer for scaling and encoding
+2024-10-28 21:00:23,803 - INFO - Applying the transformations
+2024-10-28 21:00:23,803 - INFO - Applying the transformations
+2024-10-28 21:00:23,803 - INFO - Applying the transformations
+2024-10-28 21:00:24,252 - INFO - Convert the result back to a DataFrame
+2024-10-28 21:00:24,252 - INFO - Convert the result back to a DataFrame
+2024-10-28 21:00:24,252 - INFO - Convert the result back to a DataFrame
+2024-10-28 21:01:24,832 - INFO - loading the data
+2024-10-28 21:01:24,832 - INFO - loading the data
+2024-10-28 21:01:26,033 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:01:26,033 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:01:26,033 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:01:26,035 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:01:26,035 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:01:26,035 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:01:26,064 - INFO - Normalizing and encoding
+2024-10-28 21:01:26,064 - INFO - Normalizing and encoding
+2024-10-28 21:01:26,064 - INFO - Normalizing and encoding
+2024-10-28 21:01:26,066 - INFO - Convert datetime columns
+2024-10-28 21:01:26,066 - INFO - Convert datetime columns
+2024-10-28 21:01:26,066 - INFO - Convert datetime columns
+2024-10-28 21:01:26,084 - INFO - Extract time-related features
+2024-10-28 21:01:26,084 - INFO - Extract time-related features
+2024-10-28 21:01:26,084 - INFO - Extract time-related features
+2024-10-28 21:01:26,114 - INFO - Select categorical and numerical columns
+2024-10-28 21:01:26,114 - INFO - Select categorical and numerical columns
+2024-10-28 21:01:26,114 - INFO - Select categorical and numerical columns
+2024-10-28 21:01:26,115 - INFO - Creating a column transformer for scaling and encoding
+2024-10-28 21:01:26,115 - INFO - Creating a column transformer for scaling and encoding
+2024-10-28 21:01:26,115 - INFO - Creating a column transformer for scaling and encoding
+2024-10-28 21:01:26,116 - INFO - Applying the transformations
+2024-10-28 21:01:26,116 - INFO - Applying the transformations
+2024-10-28 21:01:26,116 - INFO - Applying the transformations
+2024-10-28 21:01:26,630 - INFO - Convert the result back to a DataFrame
+2024-10-28 21:01:26,630 - INFO - Convert the result back to a DataFrame
+2024-10-28 21:01:26,630 - INFO - Convert the result back to a DataFrame
+2024-10-28 21:04:19,437 - INFO - loading the data
+2024-10-28 21:04:19,437 - INFO - loading the data
+2024-10-28 21:04:20,686 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:04:20,686 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:04:20,686 - INFO - cleaning the data frame before normalizing and scaling
+2024-10-28 21:04:20,689 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:04:20,689 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:04:20,689 - ERROR - error occured :"['Unnamed: 0'] not found in axis"
+2024-10-28 21:04:20,718 - INFO - Normalizing and encoding
+2024-10-28 21:04:20,718 - INFO - Normalizing and encoding
+2024-10-28 21:04:20,718 - INFO - Normalizing and encoding
+2024-10-28 21:04:20,719 - INFO - Convert datetime columns
+2024-10-28 21:04:20,719 - INFO - Convert datetime columns
+2024-10-28 21:04:20,719 - INFO - Convert datetime columns
+2024-10-28 21:04:20,739 - INFO - Extract time-related features
+2024-10-28 21:04:20,739 - INFO - Extract time-related features
+2024-10-28 21:04:20,739 - INFO - Extract time-related features
+2024-10-28 21:04:20,768 - INFO - Applying the transformations
+2024-10-28 21:04:20,768 - INFO - Applying the transformations
+2024-10-28 21:04:20,768 - INFO - Applying the transformations
+2024-10-28 21:04:21,274 - INFO - Assigning meaningful column names
+2024-10-28 21:04:21,274 - INFO - Assigning meaningful column names
+2024-10-28 21:04:21,274 - INFO - Assigning meaningful column names
+2024-10-28 21:56:01,231 - INFO - loading the data
+2024-10-28 21:58:35,463 - INFO - loading the data
+2024-10-28 22:01:34,938 - INFO - feature and target
+2024-10-28 22:01:34,941 - INFO - creadit card feature separation
+2024-10-28 22:01:34,980 - INFO - fraud data target separation
+2024-10-28 22:01:34,980 - INFO - error occured : {e}
+2024-10-28 22:02:14,377 - INFO - feature and target
+2024-10-28 22:02:14,380 - INFO - creadit card feature separation
+2024-10-28 22:02:14,470 - INFO - fraud data target separation
+2024-10-28 22:02:14,483 - INFO - error occured : {e}
+2024-10-28 22:02:38,892 - INFO - feature and target
+2024-10-28 22:02:38,893 - INFO - creadit card feature separation
+2024-10-28 22:02:38,926 - INFO - fraud data target separation
+2024-10-28 22:02:38,928 - INFO - error occured : {e}
+2024-10-28 22:02:53,883 - INFO - feature and target
+2024-10-28 22:02:53,890 - INFO - creadit card feature separation
+2024-10-28 22:02:53,928 - INFO - fraud data target separation
+2024-10-28 22:02:53,932 - INFO - error occured : {e}
+2024-10-28 22:03:07,155 - INFO - feature and target
+2024-10-28 22:03:07,160 - INFO - creadit card feature separation
+2024-10-28 22:03:07,185 - INFO - fraud data target separation
+2024-10-28 22:03:07,190 - INFO - error occured : {e}
+2024-10-28 22:03:23,400 - INFO - loading the data
+2024-10-28 22:03:25,800 - INFO - loading the data
+2024-10-28 22:03:26,042 - INFO - feature and target
+2024-10-28 22:03:26,042 - INFO - creadit card feature separation
+2024-10-28 22:03:26,071 - INFO - fraud data target separation
+2024-10-28 22:03:26,076 - INFO - error occured : "['class'] not found in axis"
+2024-10-28 22:09:08,264 - INFO - loading the data
+2024-10-28 22:09:08,264 - INFO - loading the data
+2024-10-28 22:09:09,884 - INFO - Cleaning the data frame before normalizing and scaling
+2024-10-28 22:09:09,884 - INFO - Cleaning the data frame before normalizing and scaling
+2024-10-28 22:09:09,884 - INFO - Cleaning the data frame before normalizing and scaling
+2024-10-28 22:09:09,941 - INFO - Normalizing and encoding
+2024-10-28 22:09:09,941 - INFO - Normalizing and encoding
+2024-10-28 22:09:09,941 - INFO - Normalizing and encoding
+2024-10-28 22:10:00,768 - INFO - loading the data
+2024-10-28 22:10:03,460 - INFO - loading the data
+2024-10-28 22:10:04,328 - INFO - feature and target
+2024-10-28 22:10:04,330 - INFO - creadit card feature separation
+2024-10-28 22:10:04,359 - INFO - fraud data target separation
+2024-10-28 22:10:14,578 - INFO - feature and target
+2024-10-28 22:10:14,579 - INFO - creadit card feature separation
+2024-10-28 22:10:14,624 - INFO - fraud data target separation
+2024-10-28 22:11:55,668 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:11:55,675 - INFO - spliting the credit card data into train test 
+2024-10-28 22:11:55,677 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:13:35,916 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:13:35,916 - INFO - spliting the credit card data into train test 
+2024-10-28 22:13:35,916 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:20:04,821 - INFO - loading the data
+2024-10-28 22:20:06,877 - INFO - loading the data
+2024-10-28 22:20:07,598 - INFO - feature and target
+2024-10-28 22:20:07,600 - INFO - creadit card feature separation
+2024-10-28 22:20:07,628 - INFO - fraud data target separation
+2024-10-28 22:20:07,667 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:20:07,670 - INFO - spliting the credit card data into train test 
+2024-10-28 22:20:07,804 - INFO - spliting the fraud data into train and test
+2024-10-28 22:21:56,540 - INFO - training the model and evaluating there performance
+2024-10-28 22:21:56,543 - INFO - defining the models
+2024-10-28 22:21:56,544 - INFO - Training and evaluating each model
+2024-10-28 23:18:52,801 - INFO - training the model and evaluating there performance
+2024-10-28 23:18:52,804 - INFO - defining the models
+2024-10-28 23:18:52,804 - INFO - Training and evaluating each model
+2024-10-28 23:18:53,103 - ERROR - error occured : could not convert string to float: '2015-05-11 01:10:38'
+2024-10-28 23:26:18,424 - INFO - loading the data
+2024-10-28 23:29:57,942 - INFO - loading the data
+2024-10-28 23:30:24,681 - INFO - feature and target
+2024-10-28 23:30:24,682 - INFO - fraud data target separation
+2024-10-28 23:31:15,577 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:31:15,582 - INFO - spliting the fraud data into train and test
+2024-10-28 23:31:49,956 - INFO - Training the model and evaluating their performance
+2024-10-28 23:31:49,956 - INFO - Defining the preprocessing steps
+2024-10-28 23:31:49,956 - INFO - Defining the models
+2024-10-28 23:31:49,961 - INFO - Training and evaluating each model
+2024-10-28 23:31:49,961 - INFO - Training Logistic Regression
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-28 23:33:33,047 - INFO - loading the data
+2024-10-28 23:33:34,814 - INFO - feature and target
+2024-10-28 23:33:34,819 - INFO - fraud data target separation
+2024-10-28 23:33:34,881 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:33:34,886 - INFO - spliting the fraud data into train and test
+2024-10-28 23:33:35,080 - INFO - Training the model and evaluating their performance
+2024-10-28 23:33:35,084 - INFO - Defining the preprocessing steps
+2024-10-28 23:33:36,723 - INFO - Defining the models
+2024-10-28 23:33:36,727 - INFO - Training and evaluating each model
+2024-10-28 23:33:36,731 - INFO - Training Logistic Regression
+2024-10-28 23:33:39,187 - INFO - Training Decision Tree
+2024-10-28 23:33:43,827 - INFO - Training Random Forest
+2024-10-28 23:34:23,703 - INFO - Training Gradient Boosting
+2024-10-28 23:34:56,459 - INFO - Training Multi-Layer Perception
+2024-10-29 20:32:09,571 - INFO - loading the data
+2024-10-29 20:32:09,571 - INFO - loading the data
+2024-10-29 20:32:40,737 - INFO - loading the data
+2024-10-29 20:32:40,737 - INFO - loading the data
+2024-10-29 20:32:40,738 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: 'final_fraud_data.csv'
+2024-10-29 20:32:40,738 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: 'final_fraud_data.csv'
+2024-10-29 20:32:49,415 - INFO - loading the data
+2024-10-29 20:32:49,415 - INFO - loading the data
+2024-10-29 20:33:04,191 - INFO - feature and target
+2024-10-29 20:33:04,191 - INFO - feature and target
+2024-10-29 20:33:04,192 - INFO - creadit card feature separation
+2024-10-29 20:33:04,192 - INFO - creadit card feature separation
+2024-10-29 20:33:04,236 - INFO - fraud data target separation
+2024-10-29 20:33:04,236 - INFO - fraud data target separation
+2024-10-29 20:33:15,981 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 20:33:15,981 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 20:33:15,982 - INFO - spliting the credit card data into train test 
+2024-10-29 20:33:15,982 - INFO - spliting the credit card data into train test 
+2024-10-29 20:33:16,070 - INFO - spliting the fraud data into train and test
+2024-10-29 20:33:16,070 - INFO - spliting the fraud data into train and test
+2024-10-29 20:35:33,205 - INFO - loading the model for the model explianbility
+2024-10-29 20:35:33,205 - INFO - loading the model for the model explianbility
+2024-10-29 20:47:39,219 - INFO - shap summary plots
+2024-10-29 20:47:39,219 - INFO - shap summary plots
+2024-10-29 20:47:39,231 - INFO - error occured while model explinaing The shape of the shap_values matrix does not match the shape of the provided data matrix.
+2024-10-29 20:47:39,231 - INFO - error occured while model explinaing The shape of the shap_values matrix does not match the shape of the provided data matrix.
+2024-10-29 21:02:22,115 - INFO - loading the data
+2024-10-29 21:02:22,115 - INFO - loading the data
+2024-10-29 21:02:24,688 - INFO - loading the data
+2024-10-29 21:02:24,688 - INFO - loading the data
+2024-10-29 21:02:25,517 - INFO - feature and target
+2024-10-29 21:02:25,517 - INFO - feature and target
+2024-10-29 21:02:25,519 - INFO - creadit card feature separation
+2024-10-29 21:02:25,519 - INFO - creadit card feature separation
+2024-10-29 21:02:25,549 - INFO - fraud data target separation
+2024-10-29 21:02:25,549 - INFO - fraud data target separation
+2024-10-29 21:02:25,581 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:02:25,581 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:02:25,584 - INFO - spliting the credit card data into train test 
+2024-10-29 21:02:25,584 - INFO - spliting the credit card data into train test 
+2024-10-29 21:02:25,729 - INFO - spliting the fraud data into train and test
+2024-10-29 21:02:25,729 - INFO - spliting the fraud data into train and test
+2024-10-29 21:02:25,859 - INFO - loading the model for the model explainability
+2024-10-29 21:02:25,859 - INFO - loading the model for the model explainability
+2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
+2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
+2024-10-29 21:06:56,648 - INFO - loading the data
+2024-10-29 21:06:56,648 - INFO - loading the data
+2024-10-29 21:06:59,413 - INFO - loading the data
+2024-10-29 21:06:59,413 - INFO - loading the data
+2024-10-29 21:07:00,283 - INFO - feature and target
+2024-10-29 21:07:00,283 - INFO - feature and target
+2024-10-29 21:07:00,285 - INFO - creadit card feature separation
+2024-10-29 21:07:00,285 - INFO - creadit card feature separation
+2024-10-29 21:07:00,318 - INFO - fraud data target separation
+2024-10-29 21:07:00,318 - INFO - fraud data target separation
+2024-10-29 21:07:00,349 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:07:00,349 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:07:00,351 - INFO - spliting the credit card data into train test 
+2024-10-29 21:07:00,351 - INFO - spliting the credit card data into train test 
+2024-10-29 21:07:00,444 - INFO - spliting the fraud data into train and test
+2024-10-29 21:07:00,444 - INFO - spliting the fraud data into train and test
+2024-10-29 21:07:00,565 - INFO - loading the model for the model explainability
+2024-10-29 21:07:00,565 - INFO - loading the model for the model explainability
+2024-10-29 21:19:12,985 - INFO - creating SHAP summary plot
+2024-10-29 21:19:12,985 - INFO - creating SHAP summary plot
+2024-10-29 21:39:50,760 - INFO - loading the model for the model explainability
+2024-10-29 21:39:50,760 - INFO - loading the model for the model explainability
+2024-10-29 21:50:01,001 - INFO - creating SHAP summary plot
+2024-10-29 21:50:01,001 - INFO - creating SHAP summary plot
+2024-10-29 21:50:39,297 - INFO - loading the model for the model explainability
+2024-10-29 21:50:39,297 - INFO - loading the model for the model explainability
+2024-10-29 22:02:12,358 - INFO - creating SHAP summary plot
+2024-10-29 22:02:12,358 - INFO - creating SHAP summary plot
+2024-10-29 22:07:50,110 - INFO - loading the data
+2024-10-29 22:07:50,110 - INFO - loading the data
+2024-10-29 22:07:53,003 - INFO - loading the data
+2024-10-29 22:07:53,003 - INFO - loading the data
+2024-10-29 22:07:53,767 - INFO - feature and target
+2024-10-29 22:07:53,767 - INFO - feature and target
+2024-10-29 22:07:53,770 - INFO - creadit card feature separation
+2024-10-29 22:07:53,770 - INFO - creadit card feature separation
+2024-10-29 22:07:53,803 - INFO - fraud data target separation
+2024-10-29 22:07:53,803 - INFO - fraud data target separation
+2024-10-29 22:07:53,874 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 22:07:53,874 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 22:07:53,875 - INFO - spliting the credit card data into train test 
+2024-10-29 22:07:53,875 - INFO - spliting the credit card data into train test 
+2024-10-29 22:07:54,011 - INFO - spliting the fraud data into train and test
+2024-10-29 22:07:54,011 - INFO - spliting the fraud data into train and test
+2024-10-29 22:07:54,220 - INFO - loading the model for the model explainability
+2024-10-29 22:07:54,220 - INFO - loading the model for the model explainability
+2024-10-29 22:20:15,137 - INFO - creating SHAP summary plot
+2024-10-29 22:20:15,137 - INFO - creating SHAP summary plot
+2024-10-29 22:20:17,452 - INFO - visualizing the contribution of features for a single prediction
+2024-10-29 22:20:17,452 - INFO - visualizing the contribution of features for a single prediction
+2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!
+2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!

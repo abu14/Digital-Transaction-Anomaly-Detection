@@ -1,0 +1,143 @@
+2024-10-28 21:56:01,231 - INFO - loading the data
+2024-10-28 21:58:35,463 - INFO - loading the data
+2024-10-28 22:01:34,938 - INFO - feature and target
+2024-10-28 22:01:34,941 - INFO - creadit card feature separation
+2024-10-28 22:01:34,980 - INFO - fraud data target separation
+2024-10-28 22:01:34,980 - INFO - error occured : {e}
+2024-10-28 22:02:14,377 - INFO - feature and target
+2024-10-28 22:02:14,380 - INFO - creadit card feature separation
+2024-10-28 22:02:14,470 - INFO - fraud data target separation
+2024-10-28 22:02:14,483 - INFO - error occured : {e}
+2024-10-28 22:02:38,892 - INFO - feature and target
+2024-10-28 22:02:38,893 - INFO - creadit card feature separation
+2024-10-28 22:02:38,926 - INFO - fraud data target separation
+2024-10-28 22:02:38,928 - INFO - error occured : {e}
+2024-10-28 22:02:53,883 - INFO - feature and target
+2024-10-28 22:02:53,890 - INFO - creadit card feature separation
+2024-10-28 22:02:53,928 - INFO - fraud data target separation
+2024-10-28 22:02:53,932 - INFO - error occured : {e}
+2024-10-28 22:03:07,155 - INFO - feature and target
+2024-10-28 22:03:07,160 - INFO - creadit card feature separation
+2024-10-28 22:03:07,185 - INFO - fraud data target separation
+2024-10-28 22:03:07,190 - INFO - error occured : {e}
+2024-10-28 22:03:23,400 - INFO - loading the data
+2024-10-28 22:03:25,800 - INFO - loading the data
+2024-10-28 22:03:26,042 - INFO - feature and target
+2024-10-28 22:03:26,042 - INFO - creadit card feature separation
+2024-10-28 22:03:26,071 - INFO - fraud data target separation
+2024-10-28 22:03:26,076 - INFO - error occured : "['class'] not found in axis"
+2024-10-28 22:10:00,768 - INFO - loading the data
+2024-10-28 22:10:03,460 - INFO - loading the data
+2024-10-28 22:10:04,328 - INFO - feature and target
+2024-10-28 22:10:04,330 - INFO - creadit card feature separation
+2024-10-28 22:10:04,359 - INFO - fraud data target separation
+2024-10-28 22:10:14,578 - INFO - feature and target
+2024-10-28 22:10:14,579 - INFO - creadit card feature separation
+2024-10-28 22:10:14,624 - INFO - fraud data target separation
+2024-10-28 22:11:55,668 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:11:55,675 - INFO - spliting the credit card data into train test 
+2024-10-28 22:11:55,677 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:13:35,916 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:13:35,916 - INFO - spliting the credit card data into train test 
+2024-10-28 22:13:35,916 - ERROR - error occured : train_test_split() got an unexpected keyword argument 'test_size'
+2024-10-28 22:20:04,821 - INFO - loading the data
+2024-10-28 22:20:06,877 - INFO - loading the data
+2024-10-28 22:20:07,598 - INFO - feature and target
+2024-10-28 22:20:07,600 - INFO - creadit card feature separation
+2024-10-28 22:20:07,628 - INFO - fraud data target separation
+2024-10-28 22:20:07,667 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 22:20:07,670 - INFO - spliting the credit card data into train test 
+2024-10-28 22:20:07,804 - INFO - spliting the fraud data into train and test
+2024-10-28 22:21:56,540 - INFO - training the model and evaluating there performance
+2024-10-28 22:21:56,543 - INFO - defining the models
+2024-10-28 22:21:56,544 - INFO - Training and evaluating each model
+2024-10-28 23:18:52,801 - INFO - training the model and evaluating there performance
+2024-10-28 23:18:52,804 - INFO - defining the models
+2024-10-28 23:18:52,804 - INFO - Training and evaluating each model
+2024-10-28 23:18:53,103 - ERROR - error occured : could not convert string to float: '2015-05-11 01:10:38'
+2024-10-28 23:26:18,424 - INFO - loading the data
+2024-10-28 23:29:57,942 - INFO - loading the data
+2024-10-28 23:29:57,942 - INFO - loading the data
+2024-10-28 23:30:24,681 - INFO - feature and target
+2024-10-28 23:30:24,681 - INFO - feature and target
+2024-10-28 23:30:24,682 - INFO - fraud data target separation
+2024-10-28 23:30:24,682 - INFO - fraud data target separation
+2024-10-28 23:31:15,577 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:31:15,577 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:31:15,582 - INFO - spliting the fraud data into train and test
+2024-10-28 23:31:15,582 - INFO - spliting the fraud data into train and test
+2024-10-28 23:31:49,956 - INFO - Training the model and evaluating their performance
+2024-10-28 23:31:49,956 - INFO - Training the model and evaluating their performance
+2024-10-28 23:31:49,956 - INFO - Defining the preprocessing steps
+2024-10-28 23:31:49,956 - INFO - Defining the preprocessing steps
+2024-10-28 23:31:49,956 - INFO - Defining the models
+2024-10-28 23:31:49,956 - INFO - Defining the models
+2024-10-28 23:31:49,961 - INFO - Training and evaluating each model
+2024-10-28 23:31:49,961 - INFO - Training and evaluating each model
+2024-10-28 23:31:49,961 - INFO - Training Logistic Regression
+2024-10-28 23:31:49,961 - INFO - Training Logistic Regression
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-28 23:31:50,031 - ERROR - Error occurred: fill_value='missing' (of type <class 'str'>) cannot be cast to the input data that is dtype('float64'). Make sure that both dtypes are of the same kind.
+2024-10-28 23:33:33,047 - INFO - loading the data
+2024-10-28 23:33:34,814 - INFO - feature and target
+2024-10-28 23:33:34,819 - INFO - fraud data target separation
+2024-10-28 23:33:34,881 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-28 23:33:34,886 - INFO - spliting the fraud data into train and test
+2024-10-28 23:33:35,080 - INFO - Training the model and evaluating their performance
+2024-10-28 23:33:35,084 - INFO - Defining the preprocessing steps
+2024-10-28 23:33:36,723 - INFO - Defining the models
+2024-10-28 23:33:36,727 - INFO - Training and evaluating each model
+2024-10-28 23:33:36,731 - INFO - Training Logistic Regression
+2024-10-28 23:33:39,187 - INFO - Training Decision Tree
+2024-10-28 23:33:43,827 - INFO - Training Random Forest
+2024-10-28 23:34:23,703 - INFO - Training Gradient Boosting
+2024-10-28 23:34:56,459 - INFO - Training Multi-Layer Perception
+2024-10-29 20:32:09,571 - INFO - loading the data
+2024-10-29 20:32:40,737 - INFO - loading the data
+2024-10-29 20:32:40,738 - ERROR - error occured while loading the data: [Errno 2] No such file or directory: 'final_fraud_data.csv'
+2024-10-29 20:32:49,415 - INFO - loading the data
+2024-10-29 20:33:04,191 - INFO - feature and target
+2024-10-29 20:33:04,192 - INFO - creadit card feature separation
+2024-10-29 20:33:04,236 - INFO - fraud data target separation
+2024-10-29 20:33:15,981 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 20:33:15,982 - INFO - spliting the credit card data into train test 
+2024-10-29 20:33:16,070 - INFO - spliting the fraud data into train and test
+2024-10-29 20:35:33,205 - INFO - loading the model for the model explianbility
+2024-10-29 20:47:39,219 - INFO - shap summary plots
+2024-10-29 20:47:39,231 - INFO - error occured while model explinaing The shape of the shap_values matrix does not match the shape of the provided data matrix.
+2024-10-29 21:02:22,115 - INFO - loading the data
+2024-10-29 21:02:24,688 - INFO - loading the data
+2024-10-29 21:02:25,517 - INFO - feature and target
+2024-10-29 21:02:25,519 - INFO - creadit card feature separation
+2024-10-29 21:02:25,549 - INFO - fraud data target separation
+2024-10-29 21:02:25,581 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:02:25,584 - INFO - spliting the credit card data into train test 
+2024-10-29 21:02:25,729 - INFO - spliting the fraud data into train and test
+2024-10-29 21:02:25,859 - INFO - loading the model for the model explainability
+2024-10-29 21:02:25,873 - ERROR - error occurred while explaining model: 'RandomForestClassifier' object has no attribute 'named_steps'
+2024-10-29 21:06:56,648 - INFO - loading the data
+2024-10-29 21:06:59,413 - INFO - loading the data
+2024-10-29 21:07:00,283 - INFO - feature and target
+2024-10-29 21:07:00,285 - INFO - creadit card feature separation
+2024-10-29 21:07:00,318 - INFO - fraud data target separation
+2024-10-29 21:07:00,349 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 21:07:00,351 - INFO - spliting the credit card data into train test 
+2024-10-29 21:07:00,444 - INFO - spliting the fraud data into train and test
+2024-10-29 21:07:00,565 - INFO - loading the model for the model explainability
+2024-10-29 21:19:12,985 - INFO - creating SHAP summary plot
+2024-10-29 21:39:50,760 - INFO - loading the model for the model explainability
+2024-10-29 21:50:01,001 - INFO - creating SHAP summary plot
+2024-10-29 21:50:39,297 - INFO - loading the model for the model explainability
+2024-10-29 22:02:12,358 - INFO - creating SHAP summary plot
+2024-10-29 22:07:50,110 - INFO - loading the data
+2024-10-29 22:07:53,003 - INFO - loading the data
+2024-10-29 22:07:53,767 - INFO - feature and target
+2024-10-29 22:07:53,770 - INFO - creadit card feature separation
+2024-10-29 22:07:53,803 - INFO - fraud data target separation
+2024-10-29 22:07:53,874 - INFO - spliting the data to evaluate the model's performance on unseen data
+2024-10-29 22:07:53,875 - INFO - spliting the credit card data into train test 
+2024-10-29 22:07:54,011 - INFO - spliting the fraud data into train and test
+2024-10-29 22:07:54,220 - INFO - loading the model for the model explainability
+2024-10-29 22:20:15,137 - INFO - creating SHAP summary plot
+2024-10-29 22:20:17,452 - INFO - visualizing the contribution of features for a single prediction
+2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!
