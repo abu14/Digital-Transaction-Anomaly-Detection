@@ -3,6 +3,7 @@ import pandas as pd
 import joblib
 import numpy as np
 
+#Initialize class for Flask app
 app = Flask(__name__)
 
 # Load the trained model

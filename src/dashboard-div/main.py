@@ -101,5 +101,6 @@ def update_output(n_clicks, *values):
             return f'Error: {response.json().get("error", "Unknown error")}'
     return "Click the button to make a prediction."
 
+#Run the app
 if __name__ == '__main__':
     app.run(debug=True, port=8050)
