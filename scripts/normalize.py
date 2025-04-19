@@ -1,3 +1,4 @@
+#import libaries and normalize the data
 import os, logging
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
