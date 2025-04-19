@@ -7,7 +7,7 @@ logging.basicConfig(
     level=logging.DEBUG,  # Set the logging level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'  # Format of the log messages
 )
-# Create a logger object
+# Create a logger object to save erroro and info logs
 logger = logging.getLogger(__name__)
 
 # define the path to the Logs directory one level up
@@ -24,6 +24,7 @@ log_file_error = os.path.join(log_dir, 'error.log')
 info_handler = logging.FileHandler(log_file_info)
 info_handler.setLevel(logging.INFO)
 
+#Create lagger handler
 error_handler = logging.FileHandler(log_file_error)
 error_handler.setLevel(logging.ERROR)
 
