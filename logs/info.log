@@ -608,3 +608,10 @@
 2024-10-29 22:20:17,452 - INFO - visualizing the contribution of features for a single prediction
 2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!
 2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!
+
+
+
+2024-10-29 22:20:17,452 - INFO - visualizing the contribution of features for a single prediction
+2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!
+2024-10-29 22:20:17,650 - ERROR - error occurred while creating force plot: Length of features is not equal to the length of shap_values!
+
